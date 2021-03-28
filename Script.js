@@ -1,4 +1,4 @@
-function Revoke_thePersons_Right() {
+function Revoke_thePersons_Rights() {
  const folders = DriveApp.getFolders();
  /*or Files:  const files = DriveApp.getFiles();*/
  var i = 0;
